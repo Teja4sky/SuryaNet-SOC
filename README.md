@@ -1,6 +1,9 @@
 # SuryaNet SOC - Intrusion Detection System
 
 SuryaNet is a SOC-level Network Intrusion Detection System built using Python.
+---
+<img width="850" height="395" alt="image" src="https://github.com/user-attachments/assets/3e2aef97-d46d-4aec-958f-018b2f500775" />
+
 
 ## Features
 
